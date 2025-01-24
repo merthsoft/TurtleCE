@@ -1,12 +1,11 @@
-Turtle CE
+# Turtle CE
 This is a program made to generate art. It has a spirograph mode and a random walk mode, and various different color modes.
 
-Controls:
-
-Press VARS to see the current settings and palette.
-Press DEL to exit.
-Press CLEAR to clear the screen to black.
-
+# Controls:
+<pre>
+VARS - see the current settings and palette.
+DEL - exit.
+CLEAR - clear the screen to black.
 
 Modes:
 Mode - Toggle between modes without changing and values
@@ -48,6 +47,7 @@ Decimal - Move turtles to random location
 Plus - Add a turtle
 Minus - Remove a turtle
 Enter - Pause or Run the turtles
+</pre>
 
 Video:
 https://youtu.be/zjMOiD62u7w
