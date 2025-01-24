@@ -54,5 +54,5 @@ https://youtu.be/zjMOiD62u7w
 
 ![Turtles](https://merthsoft.com/spiro/turtle.png)
 ![Tendrils](https://merthsoft.com/spiro/tendrils.png)
-![Shifting](https://merthsoft.com/spiroshifting.png)
-![Squiggles](https://merthsoft.com/spirosquiggles.png)
+![Shifting](https://merthsoft.com/spiro/shifting.png)
+![Squiggles](https://merthsoft.com/spiro/squiggles.png)
