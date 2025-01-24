@@ -1,4 +1,4 @@
-# Turtle CE
+# SPIRO CE
 This is a program made to generate art. It has a spirograph mode and a random walk mode, and various different color modes.
 
 # Controls:
